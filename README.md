@@ -5,3 +5,4 @@
     1. Factory Design Pattern in C#.
     2. Factory Method Design Pattern in C#.
     3. Abstract Factory Design Pattern in C#.
+    4. Builder Design Pattern in C#.
